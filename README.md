@@ -95,23 +95,24 @@ La entrega del proyecto se realizará a través de una **issue en GitHub**, trab
 
 **Fecha y hora límite:**
 
-🗓️ **Lunes a las 9:00 AM.**
+🗓️ **Miercoles 13 de Noviembre a las 18:30.**
 
 
 **Nota importante:**
 
-⚠️ **Todos los proyectos que sean entregados o modificados después de la hora límite (lunes a las 9:00 AM) se considerarán como no entregados.** Por favor, asegúrate de completar y enviar tu trabajo a tiempo para evitar problemas.
+⚠️ **Todos los proyectos que sean entregados o modificados después de la hora límite se considerarán como no entregados.** Por favor, asegúrate de completar y enviar tu trabajo a tiempo para evitar problemas.
 
 
 # 🎤 Presentación de Proyectos 🎤
 
-El lunes a primera hora tendremos las **presentaciones de los proyectos**. La dinámica será la siguiente:
+El miercóles a primera hora tendremos las **presentaciones de los proyectos**. La dinámica será la siguiente:
 
 - De forma **aleatoria**, seleccionaremos entre **3 y 5 alumnos** para presentar su proyecto.
 
 - Cada alumno tendrá **5 minutos** para explicar su proyecto y hacer una demo en vivo. Durante este tiempo podrán mostrar cómo funciona su juego y resaltar las características principales.
 
 **Detalles importantes:**
+
 - Es importante que lleguéis puntuales, ya que comenzaremos las presentaciones de inmediato.
 
 - Asegúrate de que tu código esté listo y funcional para la demo.
