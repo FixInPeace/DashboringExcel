@@ -58,12 +58,23 @@ En este conjunto de datos tenemos información sobre propiedades residenciales y
 
 10.	`BHK`: Número de habitaciones, hall, y cocina (habitaciones totales).
 
-11.	`Dining Table, Washing Machine, Exhaust Fan, Chimney, Light, Sofa, Fan, Bed`: Indica si la propiedad incluye o no estos muebles y electrodomésticos, generalmente con valores binarios (0 o 1).
+11.	`Amenidades`: Señala si la propiedad cuenta con cuarto de servicio, estudio, sala de oración, cuarto de almacenamiento, jardín, gimnasio, piscina, aire acondicionado central, internet, gas canalizado y otros servicios.
 
-12.	`furnishing_type`: Nivel de amueblado de la propiedad, posiblemente codificado (e.g., “0” para sin amueblar, “1” para semi-amueblado, etc.).
+12.	`Proximidad a servicios`: Indica si hay hospitales, centros comerciales, lugares de culto, estaciones de metro, aeropuerto, entre otros, cerca de la propiedad.
 
-13.	`area`: Área total de la propiedad en alguna unidad específica, como pies cuadrados, permitiendo comparar el tamaño.
+13.	`Mobiliario`: Especifica si incluye elementos como mesa de comedor, lavadora, estufa, refrigerador, cortinas, televisión, y cocina modular.
 
+14.	`furnishing_type`: Nivel de amueblado de la propiedad, codificado (e.g., “0” para sin amueblar, “1” para semi-amueblado).
+
+15.	`area`: Área total de la propiedad en alguna unidad específica, como pies cuadrados, permitiendo comparar el tamaño.
+
+16.	`Carpet Area`: Es el área utilizable de la propiedad dentro de las paredes. Incluye solo el espacio que realmente se puede utilizar, excluyendo el grosor de las paredes, áreas comunes, y otras zonas no habitables. Básicamente, es el área en la que se puede colocar alfombras o muebles.
+
+17.	`Built-Up Area`: Incluye el área de la propiedad que comprende tanto la Carpet Area como el grosor de las paredes internas. A veces también incluye balcones o áreas no cubiertas pequeñas. Es un poco mayor que la Carpet Area porque toma en cuenta las paredes y pequeños espacios adicionales.
+
+18.	`Super Built-Up Area`: También conocida como “área vendible,” incluye la Built-Up Area más una proporción de áreas comunes (como pasillos, vestíbulos, y otras zonas compartidas del edificio). Esta es la medida que usualmente se usa para fijar el precio de la propiedad, ya que también cubre las áreas compartidas entre varios residentes.
+
+19.	`Luxury Score`: Es una calificación que mide el nivel de lujo de la propiedad en una escala específica. Esta puntuación puede considerar aspectos como las amenidades (piscina, gimnasio, seguridad, etc.), acabados de alta calidad, ubicación, y otros factores que elevan el valor y el atractivo de la propiedad. Un Luxury Score más alto generalmente indica una propiedad más exclusiva o con características premium.
 
 ## Datos Productos
 
